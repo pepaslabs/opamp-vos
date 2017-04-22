@@ -9,14 +9,14 @@ This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  
 
 Initial board design.
 
-![](releases/v1/top.png)
+![](kicad/releases/v1/top.png)
 
-![](releases/v1/bottom.png)
+![](kicad/releases/v1/bottom.png)
 
 ## Gerbers
 
-[gerbers.zip](releases/v1/gerbers.zip)
+[gerbers.zip](kicad/releases/v1/gerbers.zip)
 
 ## Schematic
 
-[PDF](releases/v1/opamp-vos-schematic.pdf).
+[PDF](kicad/releases/v1/opamp-vos-schematic.pdf).
