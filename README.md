@@ -1,9 +1,9 @@
 # opamp-vos
 A board to measure the Vos (input offset voltage) of op amps.
 
-## License
+# Status
 
-This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas.
+This board is untested.
 
 # Board design v1
 
@@ -20,3 +20,8 @@ Initial board design.
 ## Schematic
 
 [PDF](kicad/releases/v1/opamp-vos-schematic.pdf).
+
+# License
+
+This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas.
+
