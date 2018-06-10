@@ -1,6 +1,6 @@
-update=Sat 09 Jun 2018 03:07:07 AM CDT
+update=Sat 09 Jun 2018 05:47:44 PM CDT
 version=1
-last_client=eeschema
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -20,9 +20,30 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
+[pcbnew/libraries]
+LibName1=parts/OSHW-logo
+LibName2=parts/PL_1pin
+LibName3=parts/PL_capacitors
+LibName4=parts/PL_connectors
+LibName5=parts/PL_diodes
+LibName6=parts/PL_DIP
+LibName7=parts/PL_displays
+LibName8=parts/PL_heatsinks
+LibName9=parts/PL_inductors
+LibName10=parts/PL_LEDs
+LibName11=parts/PL_mounting_holes
+LibName12=parts/PL_pads
+LibName13=parts/PL_relays
+LibName14=parts/PL_resistors
+LibName15=parts/PL_SMD_DIL
+LibName16=parts/PL_SSOP
+LibName17=parts/PL_switches
+LibName18=parts/PL_test_point
+LibName19=parts/PL_TO-46
+LibName20=parts/PL_TO-92
+LibName21=parts/PL_TO-99
+LibName22=parts/PL_TO-220
+LibDir=
 [general]
 version=1
 [schematic_editor]
@@ -95,3 +116,6 @@ LibName48=opto
 LibName49=atmel
 LibName50=contrib
 LibName51=valves
+[cvpcb]
+version=1
+NetIExt=net
