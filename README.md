@@ -1,25 +1,22 @@
 # opamp-vos
+
 A board to measure the Vos (input offset voltage) of op amps.
 
-# Status
 
-This board is untested.
+# Latest release: v2.1
 
-# Board design v1
 
-Initial board design.
+* Gerbers: [gerbers.zip](kicad/releases/v2.1/gerbers.zip)
+* Schematic: [pdf](kicad/releases/v2.1/opamp-vos.pdf).
 
-![](kicad/releases/v1/top.png)
+![](kicad/releases/v2.1/top.png)
 
-![](kicad/releases/v1/bottom.png)
+![](kicad/releases/v2.1/bottom.png)
 
-## Gerbers
+![](kicad/releases/v2.1/top.png)
 
-[gerbers.zip](kicad/releases/v1/gerbers.zip)
+![](kicad/releases/v2.1/bottom.png)
 
-## Schematic
-
-[PDF](kicad/releases/v1/opamp-vos-schematic.pdf).
 
 # License
 
