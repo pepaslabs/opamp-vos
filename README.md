@@ -13,9 +13,9 @@ A board to measure the Vos (input offset voltage) of op amps.
 
 ![](kicad/releases/v2.1/bottom.png)
 
-![](kicad/releases/v2.1/top.png)
+![](kicad/releases/v2.1/top-copper.png)
 
-![](kicad/releases/v2.1/bottom.png)
+![](kicad/releases/v2.1/bottom-copper.png)
 
 
 # License
